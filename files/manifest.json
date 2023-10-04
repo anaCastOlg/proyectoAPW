@@ -1,0 +1,39 @@
+{
+    "name": "Zapateria",
+    "short_name": "Zapato",
+    "icons":[
+        { "src": "icons/zapateria24.png",
+            "sizes": "24x24",
+            "type": "image/png"
+        },
+        { "src": "icons/zapateria36.png",
+            "sizes": "36x36",
+            "type": "image/png"
+        },
+        { "src": "icons/zapateria48.png",
+            "sizes": "48x48",
+            "type": "image/png"
+        },
+        { "src": "icons/zapateria64.png",
+            "sizes": "64x64",
+            "type": "image/png"
+        },
+        { "src": "icons/zapateria96.png",
+            "sizes": "96x96",
+            "type": "image/png"
+        },
+        { "src": "icons/zapateria128.png",
+            "sizes": "128x128",
+            "type": "image/png"
+        },
+        { "src": "icons/zapateria512.png",
+            "sizes": "512x512",
+            "type": "image/png"
+        }
+    ],
+    "start_url": "/index.html",
+    "display": "standalone",
+    "background_color": "#333333",
+    "theme_color": "#6200ee"
+
+}
